@@ -1,3 +1,5 @@
+All Rights Reserved College of Science and Engineering Flinders university
+
 ## Practical 1
 
 ### Getting Started

@@ -1,3 +1,7 @@
+
+
+All Rights Reserved College of Science and Engineering Flinders university
+
 ## Writing a class and JUnit tests
 
 ### Aims and Objectives
